@@ -1,0 +1,11 @@
+<literpal>
+    <dbname value="cool_weather"/>
+
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.example.zhxt.coolweather.db.Province"/>
+        <mapping class="com.example.zhxt.coolweather.db.City"/>
+        <mapping class="com.example.zhxt.coolweather.db.County"/>
+    </list>
+</literpal>
